@@ -1,0 +1,31 @@
+body,
+html {
+    height: 100%;
+}
+
+.full {
+    background-image: url("hal1.webp");
+    
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: 'century gothic';
+}
+
+.bagian1 {
+    background-image: url("hal2.webp");
+    
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: 'century gothic';
+}
+
+.dalam1 {
+    font-style: italic;
+    font-family: 'century gothic';
+}
